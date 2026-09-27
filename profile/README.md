@@ -43,7 +43,7 @@ Kick, fly, parry and survive in a constantly evolving arena.
 
 **Open-world survival horror.**
 
-A hostile world inspired by the atmosphere and visual language of the PS1 / PS2 era.
+A hostile world, abandoned places and the fear of what may still be out there..
 
 **In development**
 
