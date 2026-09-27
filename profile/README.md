@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/nedjma-banner.svg" alt="Nedjma Studio" width="100%" />
+<img src="./assets/nedjma-banner.jpg" alt="Nedjma Studio" width="100%" />
 
 <br>
 
@@ -19,7 +19,7 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/Nedjma-Studio/Shnozi-Smash">
-  <img src="./assets/shnozi-smash-card.svg" alt="Shnozi Smash" width="100%" />
+  <img src="./assets/shnozi-smash-card.jpg" alt="Shnozi Smash" width="100%" />
 </a>
 
 ### SHNOZI SMASH
@@ -36,7 +36,7 @@ Kick, fly, parry and survive in a constantly evolving arena.
 <td width="50%" valign="top">
 
 <a href="https://github.com/Nedjma-Studio/Kodoku">
-  <img src="./assets/kodoku-card.svg" alt="Kodoku" width="100%" />
+  <img src="./assets/kodoku-card.jpg" alt="Kodoku" width="100%" />
 </a>
 
 ### KODOKU
