@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="kbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081211"/>
+      <stop offset=".55" stop-color="#132521"/>
+      <stop offset="1" stop-color="#050807"/>
+    </linearGradient>
+    <radialGradient id="kg" cx="35%" cy="20%" r="70%">
+      <stop offset="0" stop-color="#8ca99a" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#8ca99a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="675" rx="32" fill="url(#kbg)"/>
+  <rect width="1200" height="675" rx="32" fill="url(#kg)"/>
+  <g opacity=".18" stroke="#b9c8c1" stroke-width="2">
+    <path d="M0 500 C220 420 310 560 520 470 S860 420 1200 520"/>
+    <path d="M0 545 C220 465 310 605 520 515 S860 465 1200 565"/>
+  </g>
+  <text x="82" y="445" fill="#e7ece9" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="700" letter-spacing="8">KODOKU</text>
+  <text x="86" y="505" fill="#c3cec8" opacity=".85" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="3">OPEN-WORLD SURVIVAL HORROR</text>
+  <text x="86" y="585" fill="#a9b5af" opacity=".55" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="2">PLACEHOLDER — REPLACE WITH KEY ART / SCREENSHOT</text>
+</svg>
