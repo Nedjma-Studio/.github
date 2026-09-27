@@ -1,72 +1,88 @@
 <div align="center">
 
-# NEDJMA
-
-### Independent Game Studio
-
-**Games built around strong identities, strange worlds and gameplay-first ideas.**
+<img src="./assets/nedjma-banner.svg" alt="Nedjma Studio" width="100%" />
 
 <br>
 
----
+### Independent games built around strong identities, strange worlds and gameplay-first ideas.
 
-## OUR GAMES
+[Games](#our-games) · [Studio](#about-nedjma) · [Repositories](#repositories)
+
+</div>
+
+<br>
+
+## Our Games
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Nedjma-Studio/Shnozi-Smash">
+  <img src="./assets/shnozi-smash-card.svg" alt="Shnozi Smash" width="100%" />
+</a>
 
 ### SHNOZI SMASH
 
 **Chaotic multiplayer arena brawler.**
 
-Kick. Fly. Parry. Survive.
-
-A fast-paced multiplayer fighting game where Shnoz battle across a constantly evolving arena.
+Kick, fly, parry and survive in a constantly evolving arena.
 
 **Available on S&box**
 
-[PLAY SHNOZI SMASH](https://sbox.game/nedjma/shnozi_smash) · [VIEW REPOSITORY](https://github.com/Nedjma-Studio/Shnozi-Smash)
+[Play on S&box](https://sbox.game/nedjma/shnozi_smash) · [Repository](https://github.com/Nedjma-Studio/Shnozi-Smash)
 
-<br>
+</td>
+<td width="50%" valign="top">
 
----
+<a href="https://github.com/Nedjma-Studio/Kodoku">
+  <img src="./assets/kodoku-card.svg" alt="Kodoku" width="100%" />
+</a>
 
 ### KODOKU
 
 **Open-world survival horror.**
 
-A lonely and hostile world inspired by the atmosphere and visual language of the PS1 / PS2 era.
+A hostile world inspired by the atmosphere and visual language of the PS1 / PS2 era.
 
-Explore. Survive. Understand what happened.
+**In development**
 
-**Currently in development**
+[Repository](https://github.com/Nedjma-Studio/Kodoku)
 
-[VIEW REPOSITORY](https://github.com/Nedjma-Studio/Kodoku)
+</td>
+</tr>
+</table>
 
 <br>
 
 ---
 
-## NEDJMA
+## About Nedjma
 
-We create games with a focus on:
+**Nedjma** is an independent game studio focused on distinctive gameplay, atmosphere and world building.
 
-`Gameplay` · `Atmosphere` · `World Building` · `Experimental Ideas`
+Our projects are developed primarily with **S&box**, **C#** and **Blender**.
 
-Built primarily with **S&box**, **C#** and **Blender**.
+> We prefer strong ideas, readable systems and memorable worlds over unnecessary complexity.
 
 <br>
 
-### Projects
+## Repositories
 
-[**SHNOZI SMASH**](https://github.com/Nedjma-Studio/Shnozi-Smash)  
-Multiplayer Arena Brawler
+| Project | Description | Status |
+| --- | --- | --- |
+| [**Shnozi-Smash**](https://github.com/Nedjma-Studio/Shnozi-Smash) | Multiplayer arena brawler | Playable on S&box |
+| [**Kodoku**](https://github.com/Nedjma-Studio/Kodoku) | Open-world survival horror | In development |
+| [**NedjmaVault**](https://github.com/Nedjma-Studio/NedjmaVault) | Shared studio documentation | Internal workspace |
 
-[**KODOKU**](https://github.com/Nedjma-Studio/Kodoku)  
-Open-World Survival Horror
-
-[**NedjmaVault**](https://github.com/Nedjma-Studio/NedjmaVault)  
-Studio Documentation
+<br>
 
 ---
 
-<sub>NEDJMA · Independent Game Studio</sub>
+<div align="center">
+
+**NEDJMA**
+
+<sub>Independent Game Studio</sub>
 
 </div>
